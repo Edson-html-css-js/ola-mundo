@@ -1,4 +1,4 @@
-.div {float:none}
+div {float:none}
 
 #cabecalho {
     color: rgb(10, 10, 10);
@@ -12,7 +12,7 @@
 
 H2 {
     color: rgb(10, 10, 10);
-    background-color: rgb(209, 208, 208);
+    background-color: rgb(145, 215, 243);
 
    
 padding: 10px;
